@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zshelali&label=Profile%20views&color=0e75b6&style=flat" alt="zshelali" /> </p>
 
-- I’m currently learning **Data Science & AI**
+- I’m currently studying Data Science & AI
 
 - Reach me @ **https://matrix.to/#/@byhash:matrix.org**
 
