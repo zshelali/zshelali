@@ -1,4 +1,4 @@
-- Reach me @ **https://matrix.to/#/@byhash:matrix.org**
+Reach me @ **https://matrix.to/#/@byhash:matrix.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
